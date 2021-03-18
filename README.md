@@ -1,1 +1,1 @@
-# hard-rock-song-lyric-webapp
+# Hard-rock-song-lyric-webapp
